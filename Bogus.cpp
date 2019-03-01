@@ -1,3 +1,9 @@
+/*
+
+vagitable , goat and nekre problem of machine learning.
+
+*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
